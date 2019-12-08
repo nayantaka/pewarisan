@@ -1,0 +1,5 @@
+sebuah class atau objek bisa saling berhubungan dengan class yang lain.
+
+Salah satu bentuk hubungannya adalah inheritance (pewarisan). Hubungan ini seperti hubungan keluarga antara orang tua dan anak.
+
+Sebuah class di Java, bisa memiliki satu atau lebih keturunan atau class anak. Class anak akan memiliki warisan properti dan method dari class ibu.
